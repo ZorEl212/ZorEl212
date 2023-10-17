@@ -6,13 +6,32 @@
 - 💬 Ask me about **Android open-source projects, especially in the realm of custom ROM development.**
 
 - 📫 How to reach me **yabsirad212@gmail.com**
-  <div style="display: flex; justify-content: space-between;">
-  <div align="center">
-![ZorEl212's Stats](https://github-readme-stats.vercel.app/api?username=ZorEl212&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  </div>
+<!-- <div align=center>
 
-![ZorEl212's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZorEl212&theme=vue-dark&hide_border=true)
+| Hi, I'm 17 years old & I have a great interest in full-stack development. I'm an autodidact dev who learned/studied from youtube & reading docs. I'm knowledgeable in TypeScript, React.js, Next.js, Express.js, Tailwind CSS, Sass, MongoDB, Firebase, etc...
+|---|
+  
+</div> -->
+
+<div align=center>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ZorEl212&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=ZorEl212&theme=tokyonight&hide_border=true" />
 </div>
+
+<br>
+
+<!-- <div align=center>
+  
+  | ![](https://komarev.com/ghpvc/?username=joshxfi&color=blue) |
+  |---|
+  *started counting on 9/6/21*
+  
+</div>
+
+<!-- <div align=center>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</div> -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

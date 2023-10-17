@@ -9,8 +9,6 @@
 
 ![ZorEl212's Stats](https://github-readme-stats.vercel.app/api?username=ZorEl212&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![ZorEl212's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZorEl212&theme=vue-dark&hide_border=true)
-![ZorEl212's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZorEl212&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

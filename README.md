@@ -6,12 +6,13 @@
 - 💬 Ask me about **Android open-source projects, especially in the realm of custom ROM development.**
 
 - 📫 How to reach me **yabsirad212@gmail.com**
-
   <div style="display: flex; justify-content: space-between;">
   <div align="center">
 ![ZorEl212's Stats](https://github-readme-stats.vercel.app/api?username=ZorEl212&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   </div>
+
 ![ZorEl212's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZorEl212&theme=vue-dark&hide_border=true)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

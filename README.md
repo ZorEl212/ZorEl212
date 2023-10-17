@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yabsirad212@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZorEl212&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZorEl212&layout=donut)](https://github.com/ZorEl212/CGPA-Calculator)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

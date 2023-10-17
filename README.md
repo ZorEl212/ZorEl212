@@ -7,23 +7,7 @@
 
 - 📫 How to reach me **yabsirad212@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZorEl212&layout=donut)](https://github.com/ZorEl212/CGPA-Calculator)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZorEl212" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZorEl212&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZorEl212&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZorEl212&repo=convoychat" />
-</a>
-
+![ZorEl212's Stats](https://github-readme-stats.vercel.app/api?username=ZorEl212&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

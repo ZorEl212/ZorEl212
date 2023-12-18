@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ZorEl212&color=green)
 <h1 align="center">Hi 👋, I'm Yeabsira Desalegn</h1>
 <h3 align="center">I'm an Android enthusiast with a deep love for open-source and a strong penchant for exploring the intricacies of low-level systems.</h3>
 

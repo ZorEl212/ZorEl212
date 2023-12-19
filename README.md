@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ZorEl212&color=green)
+
 <h1 align="center">Hi 👋, I'm Yeabsira Desalegn</h1>
 <h3 align="center">I'm an Android enthusiast with a deep love for open-source and a strong penchant for exploring the intricacies of low-level systems.</h3>
 
@@ -7,6 +7,7 @@
 - 💬 Ask me about **Android open-source projects, especially in the realm of custom ROM development.**
 
 - 📫 How to reach me **yabsirad212@gmail.com**
+![](https://komarev.com/ghpvc/?username=ZorEl212&color=green)
 <!-- <div align=center>
 
 | Hi, I'm 17 years old & I have a great interest in full-stack development. I'm an autodidact dev who learned/studied from youtube & reading docs. I'm knowledgeable in TypeScript, React.js, Next.js, Express.js, Tailwind CSS, Sass, MongoDB, Firebase, etc...

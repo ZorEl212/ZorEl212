@@ -7,6 +7,7 @@
 - 💬 Ask me about **Android open-source projects, especially in the realm of custom ROM development.**
 
 - 📫 How to reach me **yabsirad212@gmail.com**
+  <br>
 ![](https://komarev.com/ghpvc/?username=ZorEl212&color=green)
 <!-- <div align=center>
 

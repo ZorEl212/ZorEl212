@@ -13,7 +13,9 @@ Hey, I’m Yeasira Desalegn! I’m really into Android and love exploring open-s
 </div>
 
 <br>
+
 ---
+
 ![](https://komarev.com/ghpvc/?username=ZorEl212&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

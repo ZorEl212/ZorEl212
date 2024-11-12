@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Yeasira Desalegn! I’m really into Android and love exploring open-source stuff, especially the backend side of things.<br><br>🌱 I’m currently learning Software Engineering at ALX SE and Computer Science at Hawassa University.<br><br>💬 Ask me anything about Android open-source projects or custom ROMs — that’s where I’m most at home!<br>
+Hey, I’m Yeasira Desalegn! I’m really into Android and love exploring open-source stuff, especially the backend side of things.<br><br>🌱 Graduated from ALX in Software Engineering and am currently studying Computer Science at Hawassa University.<br><br>💬 Ask me anything about Android open-source projects or custom ROMs — that’s where I’m most at home!<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zorel212) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeabsira-desalegn-8a706a297) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yeabsiradesale1) 

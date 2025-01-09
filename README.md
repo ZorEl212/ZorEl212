@@ -9,7 +9,6 @@ Hey, I’m Yeasira Desalegn! I’m really into Android and love exploring open-s
 # 📊 GitHub Stats:
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=ZorEl212&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=ZorEl212&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
